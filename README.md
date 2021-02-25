@@ -4,3 +4,5 @@ Written in C, while attempting to use TDD.  Unfortunately, I was unable to find 
 satisfactory way to make the leap necessary to describe the backtracking algorithm in TDD.
 
 Otherwise, this does solve sudoku puzzles (3 full examples are included).
+
+copyright(C) 2021 Ron Perrella
